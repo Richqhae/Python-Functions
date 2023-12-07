@@ -31,7 +31,9 @@ current_date = datetime.now()
 print("Today is " + str(current_date))
 
 #Importing the open and append the file function
-with open("volumes.txt", "at") as volumes:
+with open("volumes.txt") as volumes:
+    for line in volumes:
+        print(line)
 
-#Printing the appended file
 
+ 

@@ -1,6 +1,4 @@
-a = 1
-b = 3
-c = -2
-result = a + b * 7 % 4 - c
-
-print(result)
+def area circle(radius):
+    """Compute and return the area of a circle."""
+    area = math.pi * radius ** 2
+    return area

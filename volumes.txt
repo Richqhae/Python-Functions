@@ -1,0 +1,4 @@
+current_date
+width
+diameter
+aspect_ratio
