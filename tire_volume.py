@@ -7,7 +7,7 @@ print("This program computes and outputs")
 print("the volume space inside a tire")
 
 #Getting the diameter, aspect ratio and width
-width = input("Enter the width of the tire: ")
+width = float(input("Enter the width of the tire: "))
 aspect_ratio = input("Enter the aspect ratio of the tire: ")
 diameter =input("Enter the diameter of the tire: ")
 
@@ -23,3 +23,15 @@ volume = round(volume, 2)
 #Printing volume for user 
 
 print(f"The volume of the space of the tire is {volume}")
+
+#importing the dTE nd time function
+from datetime import datetime
+#Printing the date and time for user
+current_date = datetime.now()
+print("Today is " + str(current_date))
+
+#Importing the open and append the file function
+with open("volumes.txt", "at") as volumes:
+
+#Printing the appended file
+
