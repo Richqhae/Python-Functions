@@ -1,0 +1,31 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+During week seven (list and repetitions), i wrote the functions into manageble pieces where each
+function performed a specific task. The function was also easy to read since it was in smaller units 
+The function waas able to get input from user and give them accurate feedback 
+
+
+
+2. In your judgment, what is the value of test functions?
+Test functions were valuable during my impotation of mathematical equations. They wre needed to 
+test my written functions and accesstheir effectiveness, efficiency and also the accuracy of the written function.
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+My process for troubleshooting are as follows;
+Identifying the problem
+Review code 
+Try debugging tools
+implementing fixes and 
+Performing testing.
+
+One thing i will do to improve my process is to review my documentation and incorporate automated testing
+
+
+
